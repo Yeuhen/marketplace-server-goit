@@ -1,0 +1,85 @@
+[{
+	"id": 19112831,
+	"sku": 1120001,
+	"name": "Квартира",
+	"description": "Хорошая квартира в центре города",
+	"price": "20000",
+	"currency": "USD",
+	"creatorId": 1,
+	"created": "21-08-2018",
+	"modified": "21-08-2018",
+	"categories": ["house", "rent"]	
+},
+{
+	"id": 19112832,
+	"sku": 1120002,
+	"name": "Автомобиль",
+	"description": "Хорошая автомобиль. Почти новый",
+	"price": "10000",
+	"currency": "USD",
+	"creatorId": 1,
+	"created": "21-08-2018",
+	"modified": "21-08-2018",
+	"categories": ["vehicle", "car"]
+},
+{
+	"id": 19113832,
+	"sku": 1123002,
+	"name": "Самолет",
+	"description": "Отличный самолет. Почти непадавший",
+	"price": "1000000",
+	"currency": "USD",
+	"creatorId": 2,
+	"created": "20-09-2018",
+	"modified": "20-09-2018",
+	"categories": ["air_vehicle", "plane"]
+},
+{
+	"id": 19114832,
+	"sku": 1124002,
+	"name": "Book",
+	"description": "Perfect book. Not readed, yeat",
+	"price": "5",
+	"currency": "USD",
+	"creatorId": 2,
+	"created": "23-09-2018",
+	"modified": "23-09-2018",
+	"categories": ["publishes", "book"]
+},
+{
+	"id": 19115832,
+	"sku": 1125002,
+	"name": "Natotenia",
+	"description": "Atlantic fish.",
+	"price": "50",
+	"currency": "USD",
+	"creatorId": 2,
+	"created": "24-09-2018",
+	"modified": "24-09-2018",
+	"categories": ["food", "fish"]
+},
+{
+	"id": 19116832,
+	"sku": 1126002,
+	"name": "Pumpkin",
+	"description": "Perfect pumpkin for perfect Halloween.",
+	"price": "10",
+	"currency": "USD",
+	"creatorId": 2,
+	"created": "25-09-2018",
+	"modified": "25-09-2018",
+	"categories": ["food", "pumpkins"]
+},
+{
+	"id": 19117832,
+	"sku": 1127002,
+	"name": "Shirt",
+	"description": "Pack of shirts, 1000pcs. ",
+	"price": "700",
+	"currency": "USD",
+	"creatorId": 2,
+	"created": "26-09-2018",
+	"modified": "26-09-2018",
+	"categories": ["clothes", "shirt"]
+}
+]
